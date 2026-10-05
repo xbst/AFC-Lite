@@ -12,27 +12,11 @@ AFC-Lite is a PCB designed for Armored Turtle's Box Turtle system. It features:
 - 5V Buck Converter
 
 ## Purchasing a AFC-Lite
-### Buy From Me (US - Ships Worldwide)
-[AFC-Lite - Isik's Tech](https://store.isiks.tech/products/afc-lite) <br>
+[Isik's Tech Official Store](https://store.isiks.tech/products/afc-lite) <br>
 We also have [Full BT kits](https://store.isiks.tech/products/box-turtle-kit) and [other BT parts](https://store.isiks.tech/collections/box-turtle-parts) available.
 
-### Australia
-- [DREMC](https://store.dremc.com.au/products/afc-lite-box-turtle-controller-pcb-by-isiks-tech)
-### Canada
-- [Amazon](https://www.amazon.ca/dp/B0DMWB52Z3) (Ships from US)
-### European Union
-- [Alchemy3D (Germany)](https://alchemy3d.de/products/boxed-turtle-afc-lite-controller-pcb)
-- [Lab4450 (Portugal)](https://lab4450.com/product/afc-lite-board/)
-### United Kingdom
-- [One Two 3D](https://www.onetwo3d.co.uk/product/isiks-tech-afc-lite-box-turtle-controller-pcb/)
-### United States
-- [Amazon](https://www.amazon.com/dp/B0DMWB52Z3?maas=maas_adg_A3C1FA832FBAA5A33374316DF932F9DB_afap_abs&ref_=aa_maas&tag=maas) (Prime Shipping)
-### Aliexpress
-- [SeleadLab](https://s.click.aliexpress.com/e/_oD9LPyv)
-- [Triangle Lab](https://s.click.aliexpress.com/e/_okjq6Id)
-
 ## Instructions
-[Manual](https://raw.githubusercontent.com/xbst/AFC-Lite/refs/heads/master/Docs/AFC-Lite_Manual.pdf)
+[Manual](https://docs.isiks.tech/box-turtle/afc-lite/manual/)
 
 ## License
 This work is licensed under a
